@@ -14,7 +14,7 @@ This is an university work with React Redux (U3-M5)
 
 📷 Preview 
 
-<img src="public/assets/preview.png" width="900" height="500">
+<img src="public/assets/preview.png" width="800" height="600">
 
 📋 Task 
 
